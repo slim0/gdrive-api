@@ -16,7 +16,7 @@ Please take a look at these links, they will help you with this:
 - [https://developers.google.com/sheets/api/quickstart/python](https://developers.google.com/sheets/api/quickstart/python)
 
 ## How to use it
-Once everything is correctly has been correctly configured:
+Once everything has been correctly configured:
 
 In your environment, launch a python console, and, for example:
 
